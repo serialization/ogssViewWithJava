@@ -1,0 +1,6 @@
+/bin/
+
+# sbt project
+project/**
+!project/plugins.sbt
+target/**
